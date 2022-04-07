@@ -1,14 +1,18 @@
-#!/bin/bash
 #include <stdio.h>
 
 int main(void)
+/*
+*main = entry
+*return = 0
+*/
+
 
 {
 
-printif("size of char: %lu", sizeof(char)\n);
-printif("size of int: %lu", sizeof(int)\n);
-printif("size of double: %lu", sizeof(double)\n);
-printif("size of float: %lu", sizeof(float)\n);
+printf("size of char: %lu\n", sizeof(char));
+printf("size of int: %lu\n", sizeof(int));
+printf("size of double: %lu\n", sizeof(double));
+printf("size of float: %lu\n", sizeof(float));
 
-return(0);
+return (0);
 }
