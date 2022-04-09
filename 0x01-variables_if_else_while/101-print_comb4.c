@@ -13,9 +13,9 @@ int main(void)
 	m = 49;
 	o = 50;
 
-	for (n = 48; n <= 58; n++)
+	for (n = 48; n <= 56; n++)
 	{
-		for (m = 49; m <= 58; m++)
+		for (m = 49; m <= 57; m++)
 		{
 			for (o = 50; o <= 58; o++)
 			{
