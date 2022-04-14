@@ -23,8 +23,8 @@ while (num < 15)
 {
 num = 0;
 if (num > 9)
-_putchar(num / 10);
-_putchar(num % 10);
+_putchar('0' + (num / 10));
+_putchar('0' + (num % 10));
 num++;
 }
 _putchar('\n');
