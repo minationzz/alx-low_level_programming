@@ -19,9 +19,9 @@ count = 0;
 
 while (count < 10)
 {
+num = 0;
 while (num < 15)
 {
-num = 0;
 if (num > 9)
 _putchar('0' + (num / 10));
 _putchar('0' + (num % 10));
