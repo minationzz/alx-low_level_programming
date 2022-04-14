@@ -10,9 +10,14 @@ void print_numbers(void)
 
 int num;
 
-while (num = 0; num <= 9; num++)
-_putchar('0' + num);
+num = 0;
 
+while (num <= 10)
+{
+
+_putchar('0' + num);
+num++;
+}
 
 _putchar('\n');
 }
