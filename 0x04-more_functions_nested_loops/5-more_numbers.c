@@ -21,8 +21,10 @@ while (count = 0; count < 11; count++)
 {
 while (num = 0; num < 15; num++)
 {
-_putchar(num);
+if (num > 9)
+_putchar(i / 10);
+_putchar(i % 10);
 }
 _putchar('\n');
 }
-
+}
