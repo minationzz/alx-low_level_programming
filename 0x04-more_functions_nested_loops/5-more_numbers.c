@@ -17,14 +17,17 @@ int num;
 
 count = 0;
 
-while (count = 0; count < 11; count++)
+while (count < 11)
 {
-while (num = 0; num < 15; num++)
+while (num < 15)
 {
+num = 0;
 if (num > 9)
-_putchar(i / 10);
-_putchar(i % 10);
+_putchar(num / 10);
+_putchar(num % 10);
+num++;
 }
 _putchar('\n');
+count++;
 }
 }
