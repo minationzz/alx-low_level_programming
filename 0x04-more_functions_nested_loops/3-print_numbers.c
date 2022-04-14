@@ -14,5 +14,5 @@ while (num = 0; num <= 9; num++)
 {
 _putchar('0' + num);
 }
-_putchar('\n);
+_putchar('\n');
 }
