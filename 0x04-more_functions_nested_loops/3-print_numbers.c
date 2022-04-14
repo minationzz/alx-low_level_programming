@@ -3,7 +3,7 @@
 void print_numbers(void)
 {
 
-char c = num;
+int = num;
 
 while (num = 0, num <= 9, num++)
 {
