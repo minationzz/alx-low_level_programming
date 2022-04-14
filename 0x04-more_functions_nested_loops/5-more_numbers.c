@@ -17,7 +17,7 @@ int num;
 
 count = 0;
 
-while (count < 11)
+while (count < 10)
 {
 while (num < 15)
 {
