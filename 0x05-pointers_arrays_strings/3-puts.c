@@ -17,7 +17,7 @@ int n = 0;
 			break;
 		}
 		_putchar(str[n]);
-		count++;
+		n++;
 	}
 
 }
