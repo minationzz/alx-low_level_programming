@@ -13,10 +13,8 @@ int n = 0;
 while (n >= 0)
 {
 	if (s[n] == '\0')
-	{
 		break;
 	n++;
-	}
 }
 
 for (n--; n >= 0; n--)
