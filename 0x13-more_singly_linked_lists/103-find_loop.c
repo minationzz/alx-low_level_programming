@@ -1,13 +1,3 @@
-/**
- * @file 103-find_loop.c
- * @author Muhabeid (muhabeid@gmail.com)
- * @brief 
- * @version 0.1
- * @date 2022-04-25
- * 
- * @copyright Copyright (c) 2022
- * 
- */
 #include "lists.h"
 
 /**
@@ -42,3 +32,4 @@ listint_t *find_listint_loop(listint_t *head)
 
 	return (NULL);
 }
+

@@ -1,13 +1,3 @@
-/**
- * @file 0-print_listint.c
- * @author Muhabeid (muhabeid@gmail.com)
- * @brief 
- * @version 0.1
- * @date 2022-04-25
- * 
- * @copyright Copyright (c) 2022
- * 
- */
 #include "lists.h"
 
 /**
@@ -29,3 +19,4 @@ size_t print_listint(const listint_t *h)
 
 	return (num);
 }
+

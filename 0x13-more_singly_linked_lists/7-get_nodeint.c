@@ -1,13 +1,3 @@
-/**
- * @file 7-get_nodeint.c
- * @author Muhabeid (muhabeid@gmail.com)
- * @brief 
- * @version 0.1
- * @date 2022-04-25
- * 
- * @copyright Copyright (c) 2022
- * 
- */
 #include "lists.h"
 
 /**
@@ -30,3 +20,4 @@ listint_t *get_nodeint_at_index(listint_t *head, unsigned int index)
 
 	return (temp ? temp : NULL);
 }
+

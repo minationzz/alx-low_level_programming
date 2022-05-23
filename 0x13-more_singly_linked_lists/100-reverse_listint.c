@@ -1,13 +1,3 @@
-/**
- * @file 100-reverse_listint.c
- * @author Muhabeid (muhabeid@gmail.com)
- * @brief 
- * @version 0.1
- * @date 2022-04-25
- * 
- * @copyright Copyright (c) 2022
- * 
- */
 #include "lists.h"
 
 /**
@@ -33,3 +23,4 @@ listint_t *reverse_listint(listint_t **head)
 
 	return (*head);
 }
+

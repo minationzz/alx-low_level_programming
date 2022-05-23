@@ -1,13 +1,3 @@
-/**
- * @file 2-add_nodeint.c
- * @author Muhabeid (muhabeid@gmail.com)
- * @brief 
- * @version 0.1
- * @date 2022-04-25
- * 
- * @copyright Copyright (c) 2022
- * 
- */
 #include "lists.h"
 
 /**
@@ -31,3 +21,4 @@ listint_t *add_nodeint(listint_t **head, const int n)
 
 	return (new);
 }
+

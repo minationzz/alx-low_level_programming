@@ -1,13 +1,3 @@
-/**
- * @file 102-free_listint_safe.c
- * @author Muhabeid (muhabeid@gmail.com)
- * @brief 
- * @version 0.1
- * @date 2022-04-25
- * 
- * @copyright Copyright (c) 2022
- * 
- */
 #include "lists.h"
 
 /**
@@ -48,3 +38,4 @@ size_t free_listint_safe(listint_t **h)
 
 	return (len);
 }
+
