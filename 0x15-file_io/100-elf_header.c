@@ -1,13 +1,3 @@
-/**
- * @file 100-elf_header.c
- * @author Muhabeid (muhabeid@gmail.com)
- * @brief 
- * @version 0.1
- * @date 2022-05-04
- * 
- * @copyright Copyright (c) 2022
- * 
- */
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
