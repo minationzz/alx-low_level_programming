@@ -157,3 +157,4 @@ int f6(char c)
 
 	return ((ret ^ 0xe5) & 0x3f);
 }
+
